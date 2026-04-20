@@ -5,3 +5,4 @@ This is a game about finding an enigma machine
 
 
 Play this game [here](https://twopiharris.github.io/EnigmaS26/)
+Another version is [here](https://twopiharris.github.io/EnigmaS26/Enigma.html)
