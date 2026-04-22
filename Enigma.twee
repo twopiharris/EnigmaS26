@@ -45,13 +45,6 @@ It is as quiet as it ever gets on the submarine at sea.  Do you
 [[head aft->aft]]
 
 
-:: pointless {"position":"1075,250","size":"100,100"}
-Well.
-
-This was pointless
-[[Go back to the beginning->start]]
-
-
 :: shoot {"position":"841.5,224.5","size":"100,100"}
 A gunfight on a submerged submarine is a very poor choice.
 [[Start over->start]]
@@ -75,7 +68,6 @@ You use the enigma device to send a coded signal.  Allied forces recognize your 
 You are standing in a submarine yard, looking for the infamous Enigma code machine
 [[Go to a nearby warehouse->warehouse]]
 [[Go to the deck of the submarine floating nearby->submarine]]
-[[Do something pointless->pointless]]
 
 
 
